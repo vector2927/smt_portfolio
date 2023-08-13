@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/smt_portfolio/static/css/main.3c7ea63d.css",
-    "main.js": "/smt_portfolio/static/js/main.107c3bc4.js",
+    "main.css": "/smt_portfolio/static/css/main.666f0489.css",
+    "main.js": "/smt_portfolio/static/js/main.b1d09889.js",
+    "static/media/bankpic.png": "/smt_portfolio/static/media/bankpic.5e7a30decba5679e76e2.png",
+    "static/media/certi-jhu-webdev.png": "/smt_portfolio/static/media/certi-jhu-webdev.bf707262ce568cf678f3.png",
+    "static/media/certi-react-basic.png": "/smt_portfolio/static/media/certi-react-basic.a0187c7cff0ef2a901d3.png",
+    "static/media/dbpic.png": "/smt_portfolio/static/media/dbpic.fe6b6a7fb7927fd4c9dc.png",
+    "static/media/calc.png": "/smt_portfolio/static/media/calc.dfe75219da58d29fa694.png",
+    "static/media/wsicon.png": "/smt_portfolio/static/media/wsicon.c10ea0a2d78971d559dc.png",
+    "static/media/heart.png": "/smt_portfolio/static/media/heart.5639285b460d7c2562d2.png",
     "static/media/wicd.png": "/smt_portfolio/static/media/wicd.7c487068e40894f77db2.png",
     "static/media/image1.JPG": "/smt_portfolio/static/media/image1.40b26d77cbcbeaa0a258.JPG",
     "static/media/wcux.png": "/smt_portfolio/static/media/wcux.6445221892d5e1f057ec.png",
+    "static/media/reactjs.png": "/smt_portfolio/static/media/reactjs.6ef7531429fa78c6182f.png",
+    "static/media/about-me1.png": "/smt_portfolio/static/media/about-me1.7105f50f09521f7c7d84.png",
+    "static/media/skillset2.jpg": "/smt_portfolio/static/media/skillset2.e78e4e1fbd7cf66bc550.jpg",
+    "static/media/skillset1.jpg": "/smt_portfolio/static/media/skillset1.63a22599d1a3330bc587.jpg",
+    "static/media/bs-logo.png": "/smt_portfolio/static/media/bs-logo.31808f62f885fde96ffa.png",
+    "static/media/skillset3.jpg": "/smt_portfolio/static/media/skillset3.35ed036cca2c863d17a2.jpg",
     "index.html": "/smt_portfolio/index.html",
-    "main.3c7ea63d.css.map": "/smt_portfolio/static/css/main.3c7ea63d.css.map",
-    "main.107c3bc4.js.map": "/smt_portfolio/static/js/main.107c3bc4.js.map"
+    "main.666f0489.css.map": "/smt_portfolio/static/css/main.666f0489.css.map",
+    "main.b1d09889.js.map": "/smt_portfolio/static/js/main.b1d09889.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c7ea63d.css",
-    "static/js/main.107c3bc4.js"
+    "static/css/main.666f0489.css",
+    "static/js/main.b1d09889.js"
   ]
 }
