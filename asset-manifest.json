@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/smt_portfolio/static/css/main.c83eb8a5.css",
-    "main.js": "/smt_portfolio/static/js/main.f555db77.js",
+    "main.css": "/smt_portfolio/static/css/main.bbfb1830.css",
+    "main.js": "/smt_portfolio/static/js/main.0c9a9040.js",
     "static/media/bankpic.png": "/smt_portfolio/static/media/bankpic.5e7a30decba5679e76e2.png",
     "static/media/certi-jhu-webdev.png": "/smt_portfolio/static/media/certi-jhu-webdev.bf707262ce568cf678f3.png",
     "static/media/certi-react-basic.png": "/smt_portfolio/static/media/certi-react-basic.a0187c7cff0ef2a901d3.png",
@@ -21,11 +21,11 @@
     "static/media/skillset3.jpg": "/smt_portfolio/static/media/skillset3.35ed036cca2c863d17a2.jpg",
     "static/media/whatsapp-icon.png": "/smt_portfolio/static/media/whatsapp-icon.38b77b9dc845191d1c46.png",
     "index.html": "/smt_portfolio/index.html",
-    "main.c83eb8a5.css.map": "/smt_portfolio/static/css/main.c83eb8a5.css.map",
-    "main.f555db77.js.map": "/smt_portfolio/static/js/main.f555db77.js.map"
+    "main.bbfb1830.css.map": "/smt_portfolio/static/css/main.bbfb1830.css.map",
+    "main.0c9a9040.js.map": "/smt_portfolio/static/js/main.0c9a9040.js.map"
   },
   "entrypoints": [
-    "static/css/main.c83eb8a5.css",
-    "static/js/main.f555db77.js"
+    "static/css/main.bbfb1830.css",
+    "static/js/main.0c9a9040.js"
   ]
 }
