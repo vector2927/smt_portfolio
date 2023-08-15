@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/smt_portfolio/static/css/main.5b5b6ff1.css",
-    "main.js": "/smt_portfolio/static/js/main.cc78919e.js",
+    "main.js": "/smt_portfolio/static/js/main.1d67b2b6.js",
     "static/media/SFProDisplay.otf": "/smt_portfolio/static/media/SFProDisplay.8e3f6c3689b1d27e3ea6.otf",
     "static/media/bankpic.png": "/smt_portfolio/static/media/bankpic.5e7a30decba5679e76e2.png",
     "static/media/hero2.png": "/smt_portfolio/static/media/hero2.096ac553db1fb903b9e2.png",
@@ -11,8 +11,8 @@
     "static/media/calc.png": "/smt_portfolio/static/media/calc.dfe75219da58d29fa694.png",
     "static/media/wsicon.png": "/smt_portfolio/static/media/wsicon.c10ea0a2d78971d559dc.png",
     "static/media/heart.png": "/smt_portfolio/static/media/heart.5639285b460d7c2562d2.png",
-    "static/media/smt-journey2.png": "/smt_portfolio/static/media/smt-journey2.e7d22a8193cb61c0b73f.png",
-    "static/media/smt-journey.png": "/smt_portfolio/static/media/smt-journey.5bce49044e2a7325a730.png",
+    "static/media/smt-journey2.png": "/smt_portfolio/static/media/smt-journey2.d80dc0254b05218c83d5.png",
+    "static/media/smt-journey.png": "/smt_portfolio/static/media/smt-journey.6a81f12019c0755c71ae.png",
     "static/media/wicd.png": "/smt_portfolio/static/media/wicd.7c487068e40894f77db2.png",
     "static/media/wcux.png": "/smt_portfolio/static/media/wcux.6445221892d5e1f057ec.png",
     "static/media/reactjs.png": "/smt_portfolio/static/media/reactjs.6ef7531429fa78c6182f.png",
@@ -23,10 +23,10 @@
     "static/media/whatsapp-icon.png": "/smt_portfolio/static/media/whatsapp-icon.38b77b9dc845191d1c46.png",
     "index.html": "/smt_portfolio/index.html",
     "main.5b5b6ff1.css.map": "/smt_portfolio/static/css/main.5b5b6ff1.css.map",
-    "main.cc78919e.js.map": "/smt_portfolio/static/js/main.cc78919e.js.map"
+    "main.1d67b2b6.js.map": "/smt_portfolio/static/js/main.1d67b2b6.js.map"
   },
   "entrypoints": [
     "static/css/main.5b5b6ff1.css",
-    "static/js/main.cc78919e.js"
+    "static/js/main.1d67b2b6.js"
   ]
 }
