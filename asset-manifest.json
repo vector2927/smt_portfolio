@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/smt_portfolio/static/css/main.18c5ca70.css",
-    "main.js": "/smt_portfolio/static/js/main.7eb2b490.js",
+    "main.css": "/smt_portfolio/static/css/main.5b5b6ff1.css",
+    "main.js": "/smt_portfolio/static/js/main.cc78919e.js",
     "static/media/SFProDisplay.otf": "/smt_portfolio/static/media/SFProDisplay.8e3f6c3689b1d27e3ea6.otf",
     "static/media/bankpic.png": "/smt_portfolio/static/media/bankpic.5e7a30decba5679e76e2.png",
+    "static/media/hero2.png": "/smt_portfolio/static/media/hero2.096ac553db1fb903b9e2.png",
     "static/media/certi-jhu-webdev.png": "/smt_portfolio/static/media/certi-jhu-webdev.bf707262ce568cf678f3.png",
     "static/media/certi-react-basic.png": "/smt_portfolio/static/media/certi-react-basic.a0187c7cff0ef2a901d3.png",
     "static/media/dbpic.png": "/smt_portfolio/static/media/dbpic.fe6b6a7fb7927fd4c9dc.png",
@@ -13,7 +14,6 @@
     "static/media/smt-journey2.png": "/smt_portfolio/static/media/smt-journey2.e7d22a8193cb61c0b73f.png",
     "static/media/smt-journey.png": "/smt_portfolio/static/media/smt-journey.5bce49044e2a7325a730.png",
     "static/media/wicd.png": "/smt_portfolio/static/media/wicd.7c487068e40894f77db2.png",
-    "static/media/image1.JPG": "/smt_portfolio/static/media/image1.40b26d77cbcbeaa0a258.JPG",
     "static/media/wcux.png": "/smt_portfolio/static/media/wcux.6445221892d5e1f057ec.png",
     "static/media/reactjs.png": "/smt_portfolio/static/media/reactjs.6ef7531429fa78c6182f.png",
     "static/media/skillset2.jpg": "/smt_portfolio/static/media/skillset2.e78e4e1fbd7cf66bc550.jpg",
@@ -22,11 +22,11 @@
     "static/media/skillset3.jpg": "/smt_portfolio/static/media/skillset3.35ed036cca2c863d17a2.jpg",
     "static/media/whatsapp-icon.png": "/smt_portfolio/static/media/whatsapp-icon.38b77b9dc845191d1c46.png",
     "index.html": "/smt_portfolio/index.html",
-    "main.18c5ca70.css.map": "/smt_portfolio/static/css/main.18c5ca70.css.map",
-    "main.7eb2b490.js.map": "/smt_portfolio/static/js/main.7eb2b490.js.map"
+    "main.5b5b6ff1.css.map": "/smt_portfolio/static/css/main.5b5b6ff1.css.map",
+    "main.cc78919e.js.map": "/smt_portfolio/static/js/main.cc78919e.js.map"
   },
   "entrypoints": [
-    "static/css/main.18c5ca70.css",
-    "static/js/main.7eb2b490.js"
+    "static/css/main.5b5b6ff1.css",
+    "static/js/main.cc78919e.js"
   ]
 }
