@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/smt_portfolio/static/css/main.4053da99.css",
-    "main.js": "/smt_portfolio/static/js/main.ba50b4f3.js",
+    "main.css": "/smt_portfolio/static/css/main.79b81f53.css",
+    "main.js": "/smt_portfolio/static/js/main.a09d116e.js",
     "static/media/SFProDisplay.otf": "/smt_portfolio/static/media/SFProDisplay.8e3f6c3689b1d27e3ea6.otf",
     "static/media/bankpic.png": "/smt_portfolio/static/media/bankpic.5e7a30decba5679e76e2.png",
     "static/media/hero2.png": "/smt_portfolio/static/media/hero2.08895097a44648c955fc.png",
@@ -22,11 +22,11 @@
     "static/media/skillset3.jpg": "/smt_portfolio/static/media/skillset3.35ed036cca2c863d17a2.jpg",
     "static/media/whatsapp-icon.png": "/smt_portfolio/static/media/whatsapp-icon.38b77b9dc845191d1c46.png",
     "index.html": "/smt_portfolio/index.html",
-    "main.4053da99.css.map": "/smt_portfolio/static/css/main.4053da99.css.map",
-    "main.ba50b4f3.js.map": "/smt_portfolio/static/js/main.ba50b4f3.js.map"
+    "main.79b81f53.css.map": "/smt_portfolio/static/css/main.79b81f53.css.map",
+    "main.a09d116e.js.map": "/smt_portfolio/static/js/main.a09d116e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4053da99.css",
-    "static/js/main.ba50b4f3.js"
+    "static/css/main.79b81f53.css",
+    "static/js/main.a09d116e.js"
   ]
 }
